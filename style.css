@@ -1,0 +1,105 @@
+
+* {
+  /* Permet de bloquer la taille de la boite, le contenu d'adapte*/
+  box-sizing: border-box;
+}
+
+
+/* Style du wrap */
+#wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+#speech {
+
+}
+
+#bouton {
+  text-align: center;
+  margin: 50px;
+}
+
+
+/*Body */
+body {
+  font-family: helvetica ;
+  background: grey ;
+  color : black
+
+}
+
+
+p {
+  text-align : justify;
+}
+
+a:link {
+  color: inherit;
+}
+
+a:hover, a:focus {
+  color: green;
+}
+
+
+/*Bouton*/
+#Button {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+.myButton {
+  margin: auto;
+  padding: 2px 10px;
+  color: #eee;
+  border-style: solid;
+  border-radius: 4px;
+  background-color: orange;
+  background-image: linear-gradient(orange, yellow 50%, transparent 50%);
+  box-shadow: 0 1px 0 rgba(255,255,255,.1),
+              0 0 1px 1px rgba(255,255,255,.3) inset,
+              0 1px rgba(255,255,255,.4) inset;
+  border: 1px solid black;
+  /* text-align: center ; */
+  text-shadow: 0 1px 1px rgba(0,0,0,.8);
+  outline:none;
+  font-size: 30px;
+}
+
+#Button p {
+  text-align: center;
+}
+
+
+.myButton:hover,
+.myButton:focus {
+    color: white;
+    background-color: orange;
+    box-shadow: 0 1px 0 rgba(255,255,255,.1),
+                0 0 1px 1px rgba(255,255,255,.3) inset,
+                0 1px rgba(255,255,255,.4) inset,
+                0 0 5px yellow;
+    border-color: rgba(255, 255, 255, .2);
+}
+
+.myButton:active {
+    background-color: #7424bf;
+    box-shadow: 0 1px 2px rgba(0,0,0,.6) inset,
+                0 1px 0 rgba(255,255,255,.3);
+    border: 1px solid black;
+}
+
+.reduit {
+  visibility: hidden;
+}
+
+/* Carte */
+#mapid { height: 700px; }
+
+/* Media queries */
+@media media:handheld{
+  #wrap {
+    flex-flow: row wrap;
+  }
+}
