@@ -1,0 +1,41 @@
+- Etape 1 :
+"Mon premier n'est pas le début,
+Mon second est le département le plus boisé de France métropolitaine,
+Au nord de mon tout, tu trouveras de quoi nous nourrir."
+
+=> Solution : Fin-Landes, il faut aller chercher la nourriture des pingouins à la pointe nord de la Finlande (Suomi).
+
+
+
+- Etape 2 :
+=> Récupérer le ver au nord de la Finlande (Suomi).
+
+
+
+- Etape 3 :
+Donner le ver à manger au Pingouin qui délivre le prochain indice
+=> Se rendre au Sud de l'Islande, à l'ouest de Reykjavik sur le volcan Eyjafjallajökull.
+
+
+
+- Etape 4 :
+"En quelle année suis-je rentré en eruption pour la dernière fois ?
+Les deux premiers chiffre sont connu par Mr. M., il est actuellement au ski sur l'un des plus haut sommets de France.
+Les deux autres chiffres ont voyagé sur le Danube et devraient être arrivés dans la Mer Noire."
+
+=> Aller chercher les codes :
+  1) En haut du Mont-Blanc.
+  2) Dans la Mer Noire.
+
+
+
+- Etape 5 :
+  1) Première partie du code : 20
+  2) Deuxième partie du code : 10
+
+
+
+- Etape 6 :
+Entrer le code 2010.
+
+=> C'est gagné ! Vous avez délivré Marty ;)
